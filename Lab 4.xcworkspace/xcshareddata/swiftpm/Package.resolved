@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftSyntax",
+        "repositoryURL": "https://github.com/apple/swift-syntax.git",
+        "state": {
+          "branch": null,
+          "revision": "2fff9fc25cdc059379b6bd309377cfab45d8520c",
+          "version": "0.50400.0"
+        }
+      },
+      {
+        "package": "SwiftZ3",
+        "repositoryURL": "https://github.com/LuizZak/swift-z3.git",
+        "state": {
+          "branch": "master",
+          "revision": "d16cd3701fa3afa40c756a49203717fe613455da",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
